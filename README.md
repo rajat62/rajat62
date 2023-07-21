@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on DoDEK (Project Collaboration App)<br>👯 I’m looking to collaborate on React Projects<br>🌱 I’m currently learning Next.js, PWA,  and T3 stack<br>💬 Ask me about React<br>⚡ Fun fact- I like to complete tasks within time
+🔭 I’m currently working on DoDEK (Project Collaboration App)<br>👯 I’m looking to collaborate on React Projects<br>🌱 I’m currently learning Next.js<br>💬 Ask me about React<br>⚡ Fun fact- I like to complete tasks within time
 
 
 ## 🌐 Socials:
